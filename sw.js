@@ -1,7 +1,7 @@
 // This is the "Offline copy of pages" service worker
 
 const CACHE = "pwabuilder-offline";
-const swVersion = "5";
+const swVersion = "6";
 
 const offlineFallbackPage = "index.html";
 
